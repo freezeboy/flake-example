@@ -1,0 +1,9 @@
+# Ignore nix links
+/result
+/result-*
+
+.direnv
+
+# For the moment, ignore /secrets content
+# will change it when implementing it
+/secrets/*
